@@ -27,5 +27,5 @@ console.log(newObj)
 delete secPerson.firsName
 
 console.log(secPerson)
-secPerson.every()
+secPerson.type ='alpha'
 console.log(secPerson)
