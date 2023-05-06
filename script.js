@@ -1,3 +1,8 @@
+
+const obj = { key: "value" };
+
+console.dir(obj);
+
 let school = {
   students: {
     "noor ahmadi": { scores: [68, 40] },
